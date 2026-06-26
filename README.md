@@ -1,4 +1,4 @@
-# hello-world ben malım 
-# hayir sen mal degilsin ben malim
-# we are the same guy
-# ben ne yapiyom ya
+# hello-world iam genius
+# yes you are thank you
+# we are all geniuses
+# what am i doing
